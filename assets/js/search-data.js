@@ -64,18 +64,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-presented-my-work-on-leveraging-an-ik-wbc-for-high-utility-teleoperation-at-taros-2022",
+            },},{id: "news-presented-my-work-on-leveraging-an-ik-wbc-for-high-utility-teleoperation-at-taros-2022",
           title: 'Presented my work on leveraging an IK-WBC for high utility teleoperation at TAROS...',
           description: "",
           section: "News",},{id: "news-successful-hot-fire-of-our-liquid-rocket-engine-at-race2space-2023",
@@ -95,6 +84,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_006/";
+            },},{id: "news-successfully-defended-my-phd-thesis-with-no-corrections",
+          title: 'Successfully defended my PhD thesis with no corrections!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_007/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
