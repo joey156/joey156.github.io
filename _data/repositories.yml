@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - joey156
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ihcr/learning_to_adapt
+  - ihcr/arm_ik_wbc
+  - ihcr/arm_ik_wbc_ros
+  - leedsrocketry/louie-design-calculations
