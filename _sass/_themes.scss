@@ -78,14 +78,14 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #070d0a;
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-text-color: #dce7e0;
+  --global-text-color-light: #9fb5a8;
+  --global-theme-color: #7fbf9b;
+  --global-hover-color: #7fbf9b;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
+  --global-footer-bg-color: #163126;
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
@@ -121,6 +121,16 @@ html[data-theme="dark"] {
   .only-dark {
     display: block;
   }
+}
+
+[data-theme="dark"] body {
+  background: linear-gradient(
+    180deg,
+    #070d0a 0%,
+    #0b1410 30%,
+    #10231a 60%,
+    #163126 100%
+  );
 }
 
 html[data-theme-setting="dark"] {

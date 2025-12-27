@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CTO at Eden Robotics | Researcher at UCL
 
 profile:
   align: right
@@ -26,9 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi! I'm Joey, a researcher and engineer who loves all things robots and rockets. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+For too long, robots have been promised as the answer to global labour shortages and the key to freeing humans from tedious work, yet few deployments have delivered meaningful, real-world impact. With a background in deep learning, bio-inspired control, and legged robotics, I have co-founded Eden Robotics to bridge that gap by deploying robots in industry and generating tangible value today.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my research, I focus on augmenting control frameworks with bio-inspired heuristics, new data modalities, and novel method integrations to push the boundaries of legged robot performance in both manipulation and locomotion.
