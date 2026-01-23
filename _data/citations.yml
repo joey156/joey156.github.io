@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-23'
 papers:
   HA9vTCQAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: Teleoperation of a legged manipulator for item disposal
     year: '2022'
   HA9vTCQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 32
+    citations: 33
     title: 'Deep reinforcement learning for bipedal locomotion: A brief survey'
     year: '2024'
   HA9vTCQAAAAJ:UeHWp8X0CEIC:
