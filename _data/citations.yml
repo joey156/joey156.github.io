@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-06'
 papers:
   HA9vTCQAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -14,7 +14,7 @@ papers:
     title: Teleoperation of a legged manipulator for item disposal
     year: '2022'
   HA9vTCQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 39
+    citations: 40
     title: 'Deep reinforcement learning for robotic bipedal locomotion: a brief survey'
     year: '2025'
   HA9vTCQAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: Towards Natural Versatility in Legged Robots through Bio-inspired and Learning-based Frameworks
     year: '2025'
   HA9vTCQAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 14
     title: Learning bipedal walking on a quadruped robot via adversarial motion priors
     year: '2024'
   HA9vTCQAAAAJ:YsMSGLbcyi4C:
