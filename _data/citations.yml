@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-05-08'
 papers:
   HA9vTCQAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -14,11 +14,11 @@ papers:
     title: Teleoperation of a legged manipulator for item disposal
     year: '2022'
   HA9vTCQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 40
+    citations: 42
     title: 'Deep reinforcement learning for robotic bipedal locomotion: a brief survey'
     year: '2025'
   HA9vTCQAAAAJ:UeHWp8X0CEIC:
-    citations: 23
+    citations: 24
     title: Whole-body control for a torque-controlled legged mobile manipulator
     year: '2022'
   HA9vTCQAAAAJ:W7OEmFMy1HYC:
@@ -34,15 +34,15 @@ papers:
     title: Learning bipedal walking on a quadruped robot via adversarial motion priors
     year: '2024'
   HA9vTCQAAAAJ:YsMSGLbcyi4C:
-    citations: 7
+    citations: 8
     title: Learning to adapt through bio-inspired gait strategies for versatile quadruped locomotion
     year: '2025'
   HA9vTCQAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 23
     title: Performance and usability evaluation scheme for mobile manipulator teleoperation
     year: '2023'
   HA9vTCQAAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 14
     title: Teleoperating a legged manipulator through whole-body control
     year: '2022'
   HA9vTCQAAAAJ:u-x6o8ySG0sC:
@@ -50,6 +50,6 @@ papers:
     title: High utility teleoperation framework for legged manipulators through leveraging whole-body control
     year: '2023'
   HA9vTCQAAAAJ:zYLM7Y9cAGgC:
-    citations: 17
+    citations: 18
     title: Bio-inspired gait transitions for quadruped locomotion
     year: '2023'
