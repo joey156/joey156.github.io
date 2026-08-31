@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   HA9vTCQAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -14,11 +14,11 @@ papers:
     title: Teleoperation of a legged manipulator for item disposal
     year: '2022'
   HA9vTCQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 52
+    citations: 54
     title: 'Deep reinforcement learning for robotic bipedal locomotion: a brief survey'
     year: '2025'
   HA9vTCQAAAAJ:UeHWp8X0CEIC:
-    citations: 27
+    citations: 28
     title: Whole-body control for a torque-controlled legged mobile manipulator
     year: '2022'
   HA9vTCQAAAAJ:W7OEmFMy1HYC:
